@@ -1361,3 +1361,15 @@ body {
   text-align: center;
   color: #232323;
 }
+.cid-quUzIMX3DT {
+  background: #ffffff;
+}
+.cid-quUzIMX3DT .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-quUzIMX3DT .video-block {
+    width: 100% !important;
+  }
+}
